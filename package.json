@@ -1,0 +1,39 @@
+{
+  "name": "j5-songs",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "description": "Songs for Johnny-Five Piezo class",
+  "homepage": "https://github.com/julianduque/j5-songs",
+  "bugs": "https://github.com/julianduque/j5-songs/issues",
+  "author": {
+    "name": "Julian Duque",
+    "email": "julianduquej@gmail.com",
+    "url": "http://about.me/julianduque"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianduque/j5-songs"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "johnny-five",
+    "piezo",
+    "songs",
+    "tunes"
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-env": "^0.4.1",
+    "jshint-stylish": "^0.2.0",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
