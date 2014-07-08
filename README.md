@@ -10,7 +10,7 @@ var five = require('johnny-five');
 var songs = require('j5-songs');
 
 five.Board().on('ready', function () {
-  var piezo = new Piezo();
+  var piezo = new five.Piezo();
 
   // Load a song object
   var song = songs.load('never-gonna-give-you-up');
