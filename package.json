@@ -1,6 +1,6 @@
 {
   "name": "j5-songs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "description": "Songs for Johnny-Five Piezo class",
   "homepage": "https://github.com/julianduque/j5-songs",
