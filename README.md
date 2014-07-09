@@ -30,21 +30,13 @@ five.Board().on('ready', function () {
 | Song ID                 | Artist        | Name                    |
 |-------------------------|---------------|-------------------------|
 | beethovens-fifth        | Beethoven     | Beethoven's Fifth       |
-|-------------------------|---------------|-------------------------|
 | claxon                  | Brian Genisio | A Claxon 2x             |
-|-------------------------|---------------|-------------------------|
 | do-re-mi                | Richard Rogers| Do-Re-Mi                |
-|-------------------------|---------------|-------------------------|
 | doorbell                | Unknown       | Classic Doorbell        |
-|-------------------------|---------------|-------------------------|
 | mario-fanfare           | Nintendo      | Super Mario Theme       |
-|-------------------------|---------------|-------------------------|
 | mario-intro             | Nintendo      | Super Mario Intro       |
-|-------------------------|---------------|-------------------------|
 | never-gonna-give-you-up | Rick Astley   | Never Gonna Give You Up |
-|-------------------------|---------------|-------------------------|
 | pew-pew-pew             | Brian Genisio | A shooter noise         |
-|-------------------------|---------------|-------------------------|
 
 ## License
 Copyright (c) 2014 Julian Duque. Licensed under the MIT license.
