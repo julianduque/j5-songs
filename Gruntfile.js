@@ -13,7 +13,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     env: {
       test: {
-        SONGS_DIR: 'test/songs'
+        SONGS_DIR: '../test/songs'
       }
     },
     nodeunit: {
