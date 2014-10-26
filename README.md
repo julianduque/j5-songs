@@ -40,4 +40,4 @@ five.Board().on('ready', function () {
 | starwars-theme          | John Williams | THE Star Wars Theme     |
 
 ## License
-Copyright (c) 2014 Julian Duque. Licensed under the MIT license.
+Copyright (c) 2014 Julian Duque, Brian Genisio. Licensed under the MIT license.
