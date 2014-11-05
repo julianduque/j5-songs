@@ -37,6 +37,7 @@ five.Board().on('ready', function () {
 | mario-intro             | Nintendo      | Super Mario Intro       |
 | never-gonna-give-you-up | Rick Astley   | Never Gonna Give You Up |
 | pew-pew-pew             | Brian Genisio | A shooter noise         |
+| tetris-theme            | Korobeiniki   | The tetris theme        |
 | starwars-theme          | John Williams | THE Star Wars Theme     |
 
 ## License
