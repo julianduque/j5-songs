@@ -34,6 +34,7 @@ five.Board().on('ready', function () {
 | do-re-mi                | Richard Rogers| Do-Re-Mi                |
 | doorbell                | Unknown       | Classic Doorbell        |
 | funeral-march-short     | Chopin        | Funeral March           |
+| jingle-bells-short      | James Pierpont| Jingle Bells            |
 | mario-fanfare           | Nintendo      | Super Mario Theme       |
 | mario-intro             | Nintendo      | Super Mario Intro       |
 | never-gonna-give-you-up | Rick Astley   | Never Gonna Give You Up |
