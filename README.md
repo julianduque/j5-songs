@@ -14,7 +14,7 @@ five.Board().on('ready', function () {
 
   // Load a song object
   var song = songs.load('never-gonna-give-you-up');
-  
+
   // Play it !
   piezo.play(song);
 
@@ -33,6 +33,7 @@ five.Board().on('ready', function () {
 | claxon                  | Brian Genisio | A Claxon 2x             |
 | do-re-mi                | Richard Rogers| Do-Re-Mi                |
 | doorbell                | Unknown       | Classic Doorbell        |
+| jingle-bells-short      | James Pierpont| Jingle Bells            |
 | mario-fanfare           | Nintendo      | Super Mario Theme       |
 | mario-intro             | Nintendo      | Super Mario Intro       |
 | never-gonna-give-you-up | Rick Astley   | Never Gonna Give You Up |
