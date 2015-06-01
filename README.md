@@ -33,6 +33,7 @@ five.Board().on('ready', function () {
 | claxon                  | Brian Genisio | A Claxon 2x             |
 | do-re-mi                | Richard Rogers| Do-Re-Mi                |
 | doorbell                | Unknown       | Classic Doorbell        |
+| funeral-march-short     | Chopin        | Funeral March           |
 | jingle-bells-short      | James Pierpont| Jingle Bells            |
 | mario-fanfare           | Nintendo      | Super Mario Theme       |
 | mario-intro             | Nintendo      | Super Mario Intro       |
