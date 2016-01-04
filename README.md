@@ -42,5 +42,7 @@ five.Board().on('ready', function () {
 | tetris-theme            | Korobeiniki   | The tetris theme        |
 | starwars-theme          | John Williams | THE Star Wars Theme     |
 
+For more songs check `lib/songs` folder
+
 ## License
 Copyright (c) 2014 Julian Duque, Brian Genisio. Licensed under the MIT license.
